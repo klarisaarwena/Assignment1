@@ -1,0 +1,16 @@
+body,html {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+
+  margin-right:10%;
+  margin-bottom:10%;
+  margin-top: 1%;
+  margin-left: 10%;
+  background-color: #f46255;
+}
+
+.headertext {
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
